@@ -6,12 +6,12 @@ contract Greeter {
 
     constructor(string memory _InitialGreeting) {
         greeting = _InitialGreeting;
-
-}
+    }
 
     function setGreeting(string memory _NewGreeting) public {
         greeting = _NewGreeting;
     }
+
     function greet() public view returns (string memory) {
         return greeting;
     }

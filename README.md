@@ -28,10 +28,9 @@ It is part of the **Base Batches Prep Challenge 1**, an introductory exercise to
 The contract was deployed to **Base Sepolia** using the Foundry CLI.
 
 **Final verified contract:**  
-🔗 [0xef5145bd638b390e279a07ad243a2277ab0a3b0b](https://sepolia.basescan.org/address/0xef5145bd638b390e279a07ad243a2277ab0a3b0b#code)
+🔗 [0x2e2e8f80d28b5920d0e486c566eef2261248f111](https://sepolia.basescan.org/address/0x2e2e8f80d28b5920d0e486c566eef2261248f111#code)
 
-**Compiler version:** `v0.8.30+commit.73712a01`  
-**Optimizer:** Enabled (200 runs)
+**Compiler version:** `v0.8.30+commit.73712a01`
 
 ---
 
@@ -39,7 +38,7 @@ The contract was deployed to **Base Sepolia** using the Foundry CLI.
 
 This contract was deployed twice during the testing phase on **Base Sepolia**.  
 The verified version above represents the final deployment.  
-Earlier instances (such as `0x2e2e8f80d28b5920d0e486c566eef2261248f111`) were used for verification and script testing,  
+Earlier instances (such as `0xef5145bd638b390e279a07ad243a2277ab0a3b0b`) were used for verification and script testing,  
 and remain in the repository as part of the development history.
 
 ---

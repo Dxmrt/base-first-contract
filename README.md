@@ -54,18 +54,6 @@ forge script script/Deploy.s.sol \
   --broadcast
 ```
 
-## 🛠️ Setup
-
-Build or deploy locally:
-
-```bash
-forge build
-forge script script/Deploy.s.sol \
-  --rpc-url $BASE_SEPOLIA_RPC_URL \
-  --private-key $PRIVATE_KEY \
-  --broadcast
-```
-
 Verify on BaseScan:
 
 ```bash
